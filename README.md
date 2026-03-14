@@ -1,6 +1,5 @@
-# 30 Days Machine Learning Challenge
+# Machine Learning 
 
-## Day 1
 Study Hours vs Marks Prediction using Linear Regression
 
 Dataset:
